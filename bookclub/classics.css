@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(185, 157, 120);
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+    margin-left: 2%;
+}
+
+h3 {
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h2 {
+    background-color: slategray;
+}
+
+ul{
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+
+#bar-home {
+    position: fixed;
+    top: 1%;
+    left: 18%;
+    border: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#bar-classic {
+    position: fixed;
+    top: 1%;
+    left: 33%;
+    border: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#bar-favs {
+    position: fixed;
+    top: 1%;
+    left: 47%;
+    border: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#bar-movies {
+    position: fixed;
+    top: 1%;
+    left: 65%;
+    border: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
